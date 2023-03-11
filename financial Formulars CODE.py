@@ -82,10 +82,10 @@ class FinancialFormulas:
     def debt_to_equity_ratio(self, total_debt, total_equity):
         ratio = total_debt / total_equity
         return ratio
-
+'''
 To use this class, you can create an instance of the FinancialFormulas class and call its methods to calculate the desired 
 financial formula. Here's an example:
-
+'''
 
 ff = FinancialFormulas()
 
