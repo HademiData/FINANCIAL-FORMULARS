@@ -1,13 +1,13 @@
 # DESCRIPTION
 
-
+'''
 This class includes functions for calculating the P&L formula, Sharpe Ratio, Moving Average, Relative Strength Index,
 Fibonacci Retracement, Standard Deviation, and Beta, as well as a function to calculate the lot size for a forex trade.
 Note that for the lot size calculation, the account_size, risk_pct, stop_loss_pips, and currency_value parameters are needed as input. 
 The risk_pct parameter indicates the percentage of the account that the trader is willing to risk on the trade, 
 and the stop_loss_pips parameter indicates the number of pips that the trader is willing to risk on the trade.
 The currency_value parameter indicates the value of one pip in the currency of the trading account.
-
+'''
 
 # CODE
 
