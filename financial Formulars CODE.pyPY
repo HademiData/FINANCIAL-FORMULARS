@@ -1,7 +1,7 @@
 # financial formulars to use and their concepts Breifly
 
 
-
+'''
 1 Compound Interest Formula:
 
 The compound interest formula is used to calculate the interest earned on an investment over a period of time. 
@@ -55,7 +55,7 @@ Debt-to-Equity Ratio = Total Debt / Total Equity
 
 where Total Debt is the total amount of debt a company has and Total Equity is the total amount of equity the company has.
 
-
+'''
 
 
 # CODE
